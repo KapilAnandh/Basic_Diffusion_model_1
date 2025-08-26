@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+.ipynb_checkpoints
+.env
+*.png
+*.jpg
+*.jpeg
+*.gif
